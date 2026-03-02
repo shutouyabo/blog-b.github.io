@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://b.smallyu.net/2020/05/16/%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E8%BF%94%E5%9B%9E%E5%80%BC%EF%BC%9F/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2019/03/27/%E7%94%B5%E6%A2%AF%E6%A5%BC%E5%B1%82%E6%98%BE%E7%A4%BA%E5%B1%8F%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%A4%B1%E8%AF%AF/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2021/10/02/%E4%BD%A0%E6%98%AF%E2%80%A6%E2%80%A6/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2024/08/18/%E4%BA%92%E5%8A%A8%E5%BC%8F%E6%B2%89%E6%B5%B8%E5%89%A7%E5%9C%BA/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2021/11/24/%E7%9F%A5%E8%AF%86%E7%9A%84%E8%AF%85%E5%92%92/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2022/04/21/%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E8%AF%AF%E8%A7%A3/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2021/07/20/%E5%89%A7%E6%9C%AC%E6%9D%80%E7%9A%84%E5%89%A7%E6%9C%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%8C%BA%E5%88%86%E7%B1%BB%E5%9E%8B/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2025/07/27/%E6%8E%A8%E8%8D%90%E5%A5%BD%E7%8E%A9%E7%9A%84FMV%E6%B8%B8%E6%88%8F/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/2023/03/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%90%83%E4%B8%80%E9%A1%BF%E9%A5%AD%E8%A6%81%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1/</loc>
+    
+    <lastmod>2026-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://b.smallyu.net/2026/03/02/%E5%88%A9%E6%81%AF%EF%BC%8C%E5%A5%97%E5%88%A9%EF%BC%8C%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%EF%BC%8C%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/</loc>
     
     <lastmod>2026-03-02</lastmod>
@@ -1919,6 +2000,20 @@
   
   <url>
     <loc>https://b.smallyu.net/tags/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://b.smallyu.net/tags/%E5%89%A7%E6%9C%AC%E6%9D%80/</loc>
     <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
