@@ -89,7 +89,9 @@ theme: yinplus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/shutouyabo/blog-b.git
+  branch: gh-pages
 
 
 marked:
