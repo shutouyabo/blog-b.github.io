@@ -1,0 +1,4 @@
+以后更新博客（只需要这一条命令）
+bash
+运行
+hexo clean && hexo deploy

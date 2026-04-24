@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: smallyu的博客（B 面）
-subtitle: smallyu的博客（B 面）
+title: B-blog
+subtitle: B-blog
 title_tooltip: 
 description: 
-keywords: smallyu,blog
+keywords: b,blog
 author: smallyu
 # language: en
 language: zh-cn
@@ -15,7 +15,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://b.smallyu.net
+url: https://blog-b.zhihu.blog
 root: /
 permalink: :year/:month/:day/:name/
 permalink_defaults:
