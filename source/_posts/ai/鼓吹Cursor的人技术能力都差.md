@@ -1,9 +1,8 @@
 ---
 title: 鼓吹 Cursor 的人技术能力都差
 date: 2025-04-12 20:33:38
-tags: AI
+tags: kindle
 ---
-
 有点标题党，不要太介意。我想表达的是不应该过于关注使用的工具。很简单的逻辑，只有自己工程能力不如 Cursor，才会觉得 Cursor 厉害，干什么都行。当然这句话属于比较空的废话。
 
 事实上，Cursor 的代码补全能力没有比 GitHub Copilot 好多少，底层使用的模型是一样的，不是 Claude 就是GPT。而在工程化调教方面，Cursor 和 Copilot 都是在把一些文件作为 context，继续后面的对话。
@@ -47,4 +46,3 @@ cast call requestPrice(string) "BTC" "USD" —-rpc-url=http://eth:8545
 给我推荐使用 Cursor 可能还有一种心理就是，觉得我不知道怎么使用 AI，或者觉得我不知道怎么使用 Cursor (?)，也挺奇怪的。我在 2023 年（ChatGPT 开始大火的那段时间）就试用了 ChatGPT，还写了《[不要小瞧 ChatGPT](/2023/03/30/不要小瞧-ChatGPT/)》，而现在不论是日常工作还是生活，都在高频率使用 ChatGPT。
 
 总的来说，我的意思是，你可以喜欢 Cursor，也可以使用 Cursor，但最好不要鼓吹 Cursor。
-
